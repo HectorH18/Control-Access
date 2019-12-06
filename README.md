@@ -21,7 +21,7 @@ PLANTEAMIENTO DEL PROBLEMA:
 -
 Al realizar una observación, y hablar con algunos profesores, directivos y alumnos, nos dimos cuenta que no se
 usan listas digitales por que a algunos docentes se les dificulta el uso de estas herramientas digitales y eso
-implica la pérdida de notas, talleres y guías para los alumnos. Aparte de esto, el colegio implementa  una metodología de ingreso desorganizada; ya que se hace la implementaciòn del carnet pero esté se utiliza en dìas específicos tales como: jean days,  en dìas de contrajornada y por último en dìas de recreaciòn institucional.
+implica la pérdida de notas, talleres y guías para los alumnos. Aparte de esto, el colegio implementa  una metodología de ingreso desorganizada; ya que se hace la implementaciòn del carnet pero esté se utiliza en días específicos tales como: jean days,  en días de contrajornada y por último en días de recreación institucional.
 Debido a esto, pueden colarse a la institución personas ajenas a esta.
 
 JUSTIFICACIÓN:
