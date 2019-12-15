@@ -1,5 +1,5 @@
 # Gestion control de acceso institución Tom Adams
-![logo](https://user-images.githubusercontent.com/58231985/70857190-e7801200-1eb7-11ea-9841-5888181a0be0.jpg)
+![logo](https://user-images.githubusercontent.com/58231985/70857878-814dbc00-1ec4-11ea-85df-bc2efa02bd7f.jpg)
 
 OBJETIVOS:
 -
